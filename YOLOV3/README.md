@@ -1,4 +1,5 @@
-# Yolov3 Object Detection on Satellite Images
+# Yolov3 Object Detection on SIMs DataSet
+
 
 # Pre-requistes and Dependencies
  - Colab
@@ -61,7 +62,11 @@ bus
 truck
 van
 longvehicle
-...
+airliner      
+propeller      
+trainer      
+chartered      
+other...
 ```
 
 Create `sims.txt` for passing data for training. It should look like this:
