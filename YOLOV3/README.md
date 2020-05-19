@@ -1,6 +1,6 @@
 # Yolov3 Object Detection on Satellite Images
 
-# Pre-requistes
+# Pre-requistes and Dependencies
  - Colab
  - Pytorch >=1.5
  - Clone into repository `https://github.com/ultralytics/yolov3`
@@ -214,19 +214,11 @@ Speed: 9.1/2.6/11.8 ms inference/NMS/total per 512x512 image at batch-size 8
 ![Yolov3](output/Yolov3/1.jpg)
 ![Yolov3](output/Yolov3/2.jpg)
 ![Yolov3](output/Yolov3/3.jpg)
-![Yolov3](output/Yolov3/4.jpg)
-![Yolov3](output/Yolov3/5.jpg)
 
 ## Results for Yolov3-SPP
 ![Yolov3](output/Yolov3-spp/1.jpg)
 ![Yolov3](output/Yolov3-spp/2.jpg)
 ![Yolov3](output/Yolov3-spp/3.jpg)
-![Yolov3](output/Yolov3-spp/4.jpg)
-![Yolov3](output/Yolov3-spp/5.jpg)
-![Yolov3](output/Yolov3-spp/6.jpg)
-![Yolov3](output/Yolov3-spp/7.jpg)
-![Yolov3](output/Yolov3-spp/8.jpg)
-![Yolov3](output/Yolov3-spp/9.jpg)
 
 ## Yolov3 vs Yolov3-SPP (Batch_wise)
 
